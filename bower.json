@@ -1,0 +1,31 @@
+{
+  "name": "project",
+  "description": "proyecto de grado",
+  "main": "bower",
+  "keywords": [
+    "project"
+  ],
+  "authors": [
+    "Daniela Bohorquez Escobar"
+  ],
+  "license": "si",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-datetimepicker": "^0.0.11",
+    "datatables.net-bs": "^1.10.12",
+    "bootstrap-validator": "^0.11.5",
+    "font-awesome": "^4.6.3",
+    "fullcalendar": "^3.0.1",
+    "jquery.nicescroll": "^3.6.8",
+    "pnotify": "^3.0.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.43"
+  }
+}
